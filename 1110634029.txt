@@ -1,0 +1,6 @@
+姓名：蔣明諭
+學號：1110634029
+此次測驗使用到哪些指令：commit merge pull push add clone log status diff branch checkout remote 
+學習到的內容：如何使用git,版本控制,團隊分工如何減少衝突
+建議：內容多但時間不足
+
