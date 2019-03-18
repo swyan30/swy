@@ -1,0 +1,16 @@
+姓名:陳言睿
+學號:1110634039
+此次測驗使用到哪些指令:
+git clone
+git branch
+git checkout
+vim
+git add
+git status
+git commit
+git log
+git merge
+git push
+
+學習到的內容:基礎git
+建議:無特別建議，課程有趣好玩，希望更深入了解
