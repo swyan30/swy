@@ -1,0 +1,16 @@
+
+姓名：戴彣昕
+學號：1110634042
+此次測驗使用到哪些指令：
+git inin
+git branch
+git checkout
+git add
+git commit
+git merge
+git status
+git config
+git diff
+git log
+學習到的內容:關於git的新事物
+建議:教慢一點
