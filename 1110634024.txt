@@ -1,0 +1,14 @@
+姓名：黃進維
+學號：1110634024
+此次測驗使用到哪些指令：
+add 
+commit 
+log
+push
+branch
+status
+checkout
+merge
+clone
+學習到的內容：git版本控制
+建議：希望能夠在教久一點
