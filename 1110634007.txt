@@ -1,0 +1,8 @@
+姓名:黃玉杏
+學號:1110634007
+此次測驗使用到哪些指令:
+git checkout -b,vim 檔案名稱,git clone,git commit,git checkout master,git pull
+學習到的內容:
+如何使用git,了解版控的原理,知道了有git的網站
+建議:
+很棒,希望以後有更多相關課程
