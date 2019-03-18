@@ -1,0 +1,13 @@
+姓名：郭溱卉
+學號：1110634017
+此次測驗使用到哪些指令：
+git clone 
+git branch 
+git checkout 
+git branch --list 
+git commit 
+git add .
+git merge
+git pull
+學習到的內容：git的基礎入門
+建議：上課內容很新鮮，不會催眠，如果上課時間能再長一點，相信一定能夠學得更扎實。
