@@ -1,0 +1,17 @@
+姓名：洪柚喆
+學號：1110634034
+此次測驗使用到哪些指令：
+git clone https://github.com/kosan1021/nutc-git.git
+cd nutc-git
+git branch -v
+git branch saber
+git add .
+git commit
+git merge saber
+git checkout master
+git checkout saber
+git remote add origin https://github.com/kosam1021/nutc-git.git
+學習到的內容：
+版本控制軟體git
+githu
+建議：時間不夠啦
