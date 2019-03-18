@@ -1,0 +1,16 @@
+姓名：許哲瑒
+學號：1110634038
+測驗使用到哪些指令：
+git add
+git commit
+git status
+git log
+git branch
+git checkout
+git merge
+git remote
+git clone
+git push
+學習到的內容:版本控制的重要以及git的使用
+建議:時間上有點趕 希望可以學習更多
+	        建議：
