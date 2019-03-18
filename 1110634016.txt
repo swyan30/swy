@@ -1,0 +1,15 @@
+姓名:施文妍
+學號:1110634016
+此次測驗使用到哪些指令:
+git clone 
+git status
+git branch -c 
+git checkout
+git commit .
+git add .
+git push origin master
+git remote -v
+學習到的內容:
+初步的git操作
+建議:
+希望可以多開幾堂課
