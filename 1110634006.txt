@@ -1,0 +1,5 @@
+姓名：黃子瑜
+學號：1110634006
+此次測驗使用到哪些指令：git clone / git branch / git checkout / vim / git add /git commit /git merge --no-ff
+學習到的內容：學到如何上傳資料到github 學習各個指令 
+建議：之後還可以再來教我們更多的Git應用
