@@ -1,5 +1,5 @@
 	    姓名：廖振瑋
             學號：1116034026
-       	    此次測驗使用到哪些指令：vim merge branch checkout push pull...
+       	    此次測驗使用到哪些指令：vim merge branch checkout push pull
 	    學習到的內容：學到git基本用法
 	    建議：能教更多的git用法
