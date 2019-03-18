@@ -1,0 +1,16 @@
+姓名：李明錞
+ 學號：1110634014
+ 此次測驗使用到哪些指令
+ git clone 下載
+ git branch分支
+ git checkout切換
+ vim 建檔
+ git add
+ git commit
+ git merge合併
+ git push 上傳
+ 學習到的內容：
+ 自己是個廢物的自省
+ 建議：
+ 時間長一點
+
