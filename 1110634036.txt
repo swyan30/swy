@@ -1,0 +1,16 @@
+姓名：翁敬堯
+學號：1110634036
+此次測驗使用到哪些指令：
+git clone 
+git branch -c 
+git checkout 
+vim 1110634036.txt
+git add .
+git commit .
+git push origin maaster 
+git merge
+git branch --list
+學習到的內容：
+許多有趣的知識及git入門技巧
+建議：
+多開幾堂課
