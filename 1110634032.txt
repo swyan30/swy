@@ -1,0 +1,16 @@
+姓名:方昌文
+學號:1110634032
+此次測驗使用到哪些指令:
+git clone
+vim
+git checkout
+git branch
+git add
+git push
+git remote -v
+git merge --no-ff
+git remote add 
+i
+:x
+學習到的內容:git的些許使用與實作
+建議:課堂時間再延長
